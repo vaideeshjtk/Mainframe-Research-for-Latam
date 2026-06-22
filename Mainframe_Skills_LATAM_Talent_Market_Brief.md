@@ -1,8 +1,5 @@
 # Mainframe Specialist Skill Sets & Argentina/Uruguay Talent Market Brief
 
-**Prepared for:** Internal meeting prep — cloud infrastructure migration planning
-**Date:** June 21, 2026
-
 ---
 
 ## Executive Summary
